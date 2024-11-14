@@ -1,0 +1,10 @@
+/* Importar fuente*/
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+
+/* Estilos generales*/ 
+body {
+    font-family: 'Nerko One';
+    font-size: large;
+    color: #333;
+    margin: 50px;
+}
